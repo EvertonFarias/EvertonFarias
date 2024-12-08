@@ -13,8 +13,7 @@ Hello! I'm Everton Farias, currently an intern at the State Department of Educat
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## GitHub Stats
-![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfarias&show_icons=true&theme=radical)
+
 
 ## Interests
 Besides technology, I enjoy walking while listening to music, which helps me relax and get inspired.
