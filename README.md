@@ -1,17 +1,17 @@
-# 👋 Hello! I'm Everton Farias
+# 👋 Olá! Eu sou o Everton Farias
 
-I'm a passionate **Full Stack Developer** and current **intern at the State Department of Education of Alagoas (SEDUC)**, where I help build scalable web applications and system integrations. I'm pursuing a **Bachelor’s degree in Computer Science** at the University of Maceió (UNIMA), class of 2026.
+Sou um **desenvolvedor full stack** apaixonado por tecnologia e atualmente atuo como estagiário na **Secretaria de Estado da Educação de Alagoas (SEDUC)**. Estou cursando **Bacharelado em Ciência da Computação** no Centro Universitário de Maceió (UNIMA), com previsão de conclusão em 2026.
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 💻 Focused on clean, secure and efficient code.
-- 🔄 Experienced in backend development with **Laravel**, **Java (Quarkus)** and **PostgreSQL/Firebird** integrations.
-- 🤝 Team player familiar with Git version control and **GitLab CI/CD** workflows.
-- 🎧 Love walking while listening to music — it’s how I get inspired.
+- 💻 Foco em escrever código limpo, seguro e escalável.
+- 🔄 Experiência em desenvolvimento backend com **Laravel**, **Java (Quarkus)** e integração entre bancos de dados.
+- 🤝 Trabalho em equipe com versionamento utilizando **Git e GitLab**.
+- 🎧 Gosto de caminhar ouvindo música — é quando surgem minhas melhores ideias.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,37 +31,46 @@ I'm a passionate **Full Stack Developer** and current **intern at the State Depa
 
 ---
 
-## 📂 Portfolio
+## 📂 Portfólio
 
-Most of my active contributions are hosted on **GitLab**, where I work on real-world systems and integrations.  
-Check out some of them:
+A maior parte das minhas contribuições está no **GitLab**, onde desenvolvo sistemas reais e integrações com bancos de dados.
 
-- 🔗 [Portfolio Website](https://evertonfarias.github.io/Portfolio)
+- 🔗 [Portfólio Pessoal](https://evertonfarias.github.io/Portfolio)
 
-
----
-
-## 🎓 Education
-
-**B.Sc. in Computer Science**  
-University of Maceió – UNIMA (2022 – 2026)
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Formação Acadêmica
 
-**Intern Developer @ SEDUC-AL**  
-*Jun 2023 – Present*
-
-- Developed and maintained Laravel-based applications to streamline internal operations.
-- Built APIs using **Java + Quarkus** to integrate **Firebird ↔ PostgreSQL**, focusing on performance and data integrity.
-- Participated in Agile routines, version control, and team collaboration using **GitLab**.
+**Bacharelado em Ciência da Computação**  
+Centro Universitário de Maceió – UNIMA (2022 – 2026)
 
 ---
 
-## 📬 Let's Connect!
+## 💼 Experiência Profissional
+
+**Estagiário de TI – SEDUC/AL**  
+*Jun 2023 – Atual*
+
+- Colaborei no desenvolvimento de aplicações web com **Laravel**, contribuindo para a modernização de sistemas administrativos.
+- Atuei no projeto **SisHOSP**, criando uma **API REST** com **Java (Quarkus)** para integrar dados entre os bancos **Firebird** e **PostgreSQL**.
+- Foquei na entrega de soluções seguras, escaláveis e de alta performance.
+- Trabalhei com controle de versão e colaboração utilizando **Git** e **GitLab**.
+
+** Integração de Sistemas - SisHOSP**
+*Dez 2024 – Atual*
+
+
+Integração desenvolvida como serviço para o SisHOSP, com foco em integração de sistemas hospitalares.
+
+- Desenvolvimento de uma **API REST** utilizando **Java com Quarkus**.
+- Integração entre **bancos Firebird e PostgreSQL**.
+- Garantia de **segurança, consistência e performance** no tráfego e armazenamento de dados.
+- Aplicação de boas práticas de arquitetura, documentação e versionamento com **GitLab**.
+
+---
+
+## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-evertonfarias/)
 
-
----
