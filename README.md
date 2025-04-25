@@ -33,7 +33,6 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia e atualmente atuo 
 
 ## 📂 Portfólio
 
-A maior parte das minhas contribuições está no **GitLab**, onde desenvolvo sistemas reais e integrações com bancos de dados.
 
 - 🔗 [Portfólio Pessoal](https://evertonfarias.github.io/Portfolio)
 
