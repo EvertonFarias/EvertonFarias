@@ -49,19 +49,18 @@ Centro Universitário de Maceió – UNIMA (2022 – 2026)
 
 ## 💼 Experiência Profissional
 
-**Estagiário de TI – SEDUC/AL**  
+**Estagiário de TI – SEDUC/AL** 
+
 *Jun 2023 – Atual*
 
 - Colaborei no desenvolvimento de aplicações web com **Laravel**, contribuindo para a modernização de sistemas administrativos.
 - Atuei no projeto **SisHOSP**, criando uma **API REST** com **Java (Quarkus)** para integrar dados entre os bancos **Firebird** e **PostgreSQL**.
 - Foquei na entrega de soluções seguras, escaláveis e de alta performance.
 - Trabalhei com controle de versão e colaboração utilizando **Git** e **GitLab**.
+#
+**Integração de Sistemas - SisHOSP** 
 
-** Integração de Sistemas - SisHOSP**
 *Dez 2024 – Atual*
-
-
-Integração desenvolvida como serviço para o SisHOSP, com foco em integração de sistemas hospitalares.
 
 - Desenvolvimento de uma **API REST** utilizando **Java com Quarkus**.
 - Integração entre **bancos Firebird e PostgreSQL**.
@@ -71,6 +70,8 @@ Integração desenvolvida como serviço para o SisHOSP, com foco em integração
 ---
 
 ## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-evertonfarias/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-evertonfarias/)
 
