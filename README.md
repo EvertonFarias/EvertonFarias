@@ -37,7 +37,7 @@ Most of my active contributions are hosted on **GitLab**, where I work on real-w
 Check out some of them:
 
 - 🔗 [Portfolio Website](https://evertonfarias.github.io/Portfolio)
-- 🔗 [GitLab Projects](https://gitlab.com/everton)
+
 
 ---
 
